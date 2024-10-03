@@ -1,0 +1,8 @@
+<html>
+<head>
+  <meta http-equiv="refresh" content="0;url=https://amock82.netlify.app/" />
+</head>
+<body>
+  <p>Redirecting to Netlify site...</p>
+</body>
+</html>
